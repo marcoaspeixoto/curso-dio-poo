@@ -1,0 +1,3 @@
+class ContaComTaxa < ContaBancaria
+
+end
